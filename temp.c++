@@ -11,6 +11,5 @@ int main()
     cout << endl;
 
     cout << "Welcome " << name << " , you are " << age << " years old" << endl;
-
     return 0;
 }
